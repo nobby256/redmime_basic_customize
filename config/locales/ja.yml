@@ -1,0 +1,5 @@
+# 文言のカスタマイズです。文字コードはUTF-8、開業コードはLFです。
+ja:
+  field_start_date: 開始日(予定)
+  field_due_date: 終了日(予定)
+  field_estimated_hours: 工数(予定)
